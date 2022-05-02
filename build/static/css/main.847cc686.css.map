@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.847cc686.css","mappings":"AAAA,OACI,qBACJ,CACA,YACI,wBACJ","sources":["App.css"],"sourcesContent":[".App {\n    background-color: black;\n}\n.App-header {\n    background-color: #282c34;\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+}
+.logo {
+    width: 264px;
+    height: 264px;
+}
+.logo-container{
+    display: flex;
+    justify-content: center;
+    border: solid red 5px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    text-decoration: none;
+
+}
+.img-thumbnail {
+    width: auto;
+    height: 300px;
+}
